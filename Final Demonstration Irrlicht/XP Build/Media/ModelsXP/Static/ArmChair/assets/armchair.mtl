@@ -1,0 +1,9 @@
+
+newmtl Material.000001
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\furniture\Suburban_Chair_Variation.dds
+map_Kn textures\furniture\Suburban_Chair_Variation_n.dds

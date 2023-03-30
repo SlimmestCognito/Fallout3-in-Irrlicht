@@ -1,0 +1,36 @@
+
+newmtl Material.000238
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\architecture\novac\GasStation01NV.dds
+map_Kn textures\architecture\novac\GasStation01NV_n.dds
+
+newmtl Material.000efa
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\architecture\paradisefalls\paradisefallsmetaltile02.dds
+map_Kn textures\architecture\paradisefalls\paradisefallsmetaltile02_n.dds
+
+newmtl Material.0010b9
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\architecture\urban\metalworkquad01.dds
+map_Kn textures\architecture\urban\metalworkquad01_n.dds
+
+newmtl Material.0010d5
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\architecture\urban\edgetrim01.dds
+map_Kn textures\architecture\urban\edgetrim01_n.dds

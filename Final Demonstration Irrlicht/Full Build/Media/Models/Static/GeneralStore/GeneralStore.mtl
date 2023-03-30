@@ -1,0 +1,28 @@
+newmtl GeneralStore:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nv_prospectorsaloon.png
+Ni 1.00
+newmtl GeneralStore:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nv_goodspringsfonts.png
+Ni 1.00
+newmtl GeneralStore:lambert5SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd nv_storeglass.png
+Ni 1.00
+newmtl GeneralStore:lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd apartmentpre01.png
+Ni 1.00

@@ -1,0 +1,43 @@
+
+newmtl Material.000902
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 25
+map_Kd textures\architecture\diner\diner.dds
+map_Kn textures\architecture\diner\diner_n.dds
+
+newmtl Material.00166e
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 40
+map_Kd textures\architecture\diner\diner02.dds
+map_Kn textures\architecture\diner\diner02_n.dds
+
+newmtl Material.0024bc
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 50
+map_Kd textures\architecture\diner\diner.dds
+map_Kn textures\architecture\diner\diner_n.dds
+
+newmtl Material.002630
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+
+newmtl Material.002698
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\architecture\urban\EdgeTrim01.dds
+map_Kn textures\architecture\urban\EdgeTrim01_n.dds

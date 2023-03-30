@@ -1,0 +1,44 @@
+newmtl GasStationRoof:Material_0000f8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd gasstation01nv.png
+Ni 1.00
+newmtl GasStationRoof:Material_000a4c
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd gasstationbnvmetal.png
+Ni 1.00
+newmtl gasstationroof:Material_0000f8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd gasstation01nv.png
+Ni 1.00
+newmtl gasstationroof:Material_000a4c
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd gasstationbnvmetal.png
+Ni 1.00
+newmtl gasstationroof:Material_000b02
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd metalworkquad01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 1x1LightGrey.png
+Ni 1.00

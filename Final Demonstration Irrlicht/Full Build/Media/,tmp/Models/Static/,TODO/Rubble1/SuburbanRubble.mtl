@@ -1,0 +1,36 @@
+
+newmtl Material.00006e
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\vehicles\carHulk03.dds
+map_Kn textures\vehicles\Car03_n.dds
+
+newmtl Material.000278
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\clutter\junk\Tire01.dds
+map_Kn textures\clutter\junk\Tire01_n.dds
+
+newmtl Material.00040c
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\clutter\junk\WoodDetails.dds
+map_Kn textures\clutter\junk\WoodDetails_n.dds
+
+newmtl Material.0004b0
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\architecture\suburban\SuburbanRubble01.dds
+map_Kn textures\architecture\suburban\SuburbanRubble01_n.dds

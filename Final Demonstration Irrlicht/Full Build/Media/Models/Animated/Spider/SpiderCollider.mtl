@@ -1,0 +1,13 @@
+# Blender MTL File: 'spider.blend'
+# Material Count: 1
+
+newmtl initialShadingGroup
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 6
+map_Kd E:\Irrlicht\ModelsPostOptimisation\Media\Models\Animated\Spider\1x1Transparent.png

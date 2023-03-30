@@ -1,0 +1,25 @@
+
+newmtl Material.0000f6
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\architecture\noso\NV_NoSo_RanchHouse01.dds
+map_Kn textures\architecture\noso\NV_NoSo_Ranchhouse01_N.dds
+
+newmtl Material.002b2b
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+
+newmtl Material.002bdd
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\architecture\urban\edgetrim01.dds
+map_Kn textures\architecture\urban\edgetrim01_n.dds

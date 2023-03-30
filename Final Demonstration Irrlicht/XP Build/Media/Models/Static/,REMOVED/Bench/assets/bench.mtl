@@ -1,0 +1,9 @@
+
+newmtl Material.000031
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 30
+map_Kd textures\furniture\BenchSuburban01.dds
+map_Kn textures\furniture\BenchSuburban01_N.dds

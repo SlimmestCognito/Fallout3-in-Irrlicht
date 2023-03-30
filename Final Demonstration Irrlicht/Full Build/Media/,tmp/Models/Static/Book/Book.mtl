@@ -1,0 +1,16 @@
+newmtl book:Material_000001
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.65 0.65 0.65
+Tf 1.00 1.00 1.00
+map_Kd bookgeneric01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 70.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 1x1LODRed.png
+Ni 1.00

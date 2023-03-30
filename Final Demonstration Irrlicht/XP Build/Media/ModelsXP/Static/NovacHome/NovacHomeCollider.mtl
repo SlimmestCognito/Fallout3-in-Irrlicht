@@ -1,0 +1,31 @@
+newmtl initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 1x1Transparent.png
+Ni 1.00
+newmtl novachome:Material_0000d3
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd novac_home01.png
+Ni 1.00
+newmtl novachome:Material_000b63
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd 1x1LODGrey.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl novachome:collision1
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00

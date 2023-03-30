@@ -1,0 +1,32 @@
+newmtl Mesh1SG4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chr_sonic_body01_dif.png
+Ni 1.00
+newmtl Mesh1SG5
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chr_sonic_shoes_dif.png
+Ni 1.00
+Ks 0.85 0.85 0.85
+Ns 18.00
+newmtl Mesh1SG6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chr_sonic_cloth_dif.png
+Ni 1.00
+newmtl Mesh1SG7
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chr_sonic_eye_dif.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00

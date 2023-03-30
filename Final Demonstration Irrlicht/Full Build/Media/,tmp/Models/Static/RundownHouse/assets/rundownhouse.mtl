@@ -1,0 +1,25 @@
+
+newmtl Material.00019e
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\architecture\noso\NV_NoSo_RanchHouse02.dds
+map_Kn textures\architecture\noso\NV_NoSo_RanchHouse02_N.dds
+
+newmtl Material.00365d
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+
+newmtl Material.003681
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\architecture\generic\ApartmentPre01dcl.dds
+map_Kn textures\architecture\generic\ApartmentPre01dcl_n.dds

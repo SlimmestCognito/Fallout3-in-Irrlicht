@@ -1,0 +1,18 @@
+
+newmtl Material.0002c4
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\clutter\billboards\BillboardFrame.dds
+map_Kn textures\clutter\billboards\BillboardFrame_N.dds
+
+newmtl Material.000a77
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\architecture\urban\BB05.dds
+map_Kn textures\architecture\urban\BBNormal_n.dds

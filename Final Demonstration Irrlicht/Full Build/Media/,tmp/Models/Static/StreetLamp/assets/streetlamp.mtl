@@ -1,0 +1,9 @@
+
+newmtl Material.00006d
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\architecture\urban\StreetLight01.dds
+map_Kn textures\architecture\urban\StreetLight01_n.dds

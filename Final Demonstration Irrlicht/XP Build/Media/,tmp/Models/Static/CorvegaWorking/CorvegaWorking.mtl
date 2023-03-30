@@ -1,0 +1,67 @@
+newmtl CorvegaV8LOD:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 1x1LOD.png
+Ni 1.00
+newmtl corvegaworking:Material_000051
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd car03.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 80.00
+newmtl corvegaworking:Material_00055a
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd tires01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl corvegaworking:Material_00074c
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd autowheel01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 60.00
+newmtl corvegaworking:Material_000e10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd dinerbooth01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 60.00
+newmtl corvegaworking:Material_0026f8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd autochassis01.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 60.00
+newmtl corvegaworking:collision1
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 18.00
+newmtl lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd 1x1LODGrey.png
+Ni 1.00

@@ -1,0 +1,34 @@
+
+newmtl Material.0000e9
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\architecture\generic\NV_Usohome01.dds
+map_Kn textures\architecture\generic\NV_Usohome01_n.dds
+
+newmtl Material.000cdc
+Ka 1 1 1
+Kd 1 1 1
+Ks 1 1 1
+d 1
+Ns 50
+map_Kd textures\architecture\generic\ApartmentPre01gla.dds
+map_Kn textures\architecture\generic\ApartmentPre01gla_n.dds
+
+newmtl Material.000cfc
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\architecture\generic\ApartmentPre01dcl.dds
+map_Kn textures\architecture\generic\ApartmentPre01dcl_n.dds
+
+newmtl Material.000ee8
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10

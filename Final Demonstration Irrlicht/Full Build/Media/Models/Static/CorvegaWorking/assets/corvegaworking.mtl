@@ -1,0 +1,153 @@
+
+newmtl Material.000051
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 80
+map_Kd textures\vehicles\car03_clean.dds
+map_Kn textures\vehicles\car03_clean_n.dds
+
+newmtl Material.00010e
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 80
+map_Kd textures\vehicles\car03_clean.dds
+map_Kn textures\vehicles\car03_clean_n.dds
+
+newmtl Material.00017e
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 80
+map_Kd textures\vehicles\car03_clean.dds
+map_Kn textures\vehicles\car03_clean_n.dds
+
+newmtl Material.000248
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 80
+map_Kd textures\vehicles\car03_clean.dds
+map_Kn textures\vehicles\car03_clean_n.dds
+
+newmtl Material.0002fa
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 80
+map_Kd textures\vehicles\car03_clean.dds
+map_Kn textures\vehicles\car03_clean_n.dds
+
+newmtl Material.000408
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 80
+map_Kd textures\vehicles\car03_clean.dds
+map_Kn textures\vehicles\car03_clean_n.dds
+
+newmtl Material.0004dd
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 80
+map_Kd textures\vehicles\car03_clean.dds
+map_Kn textures\vehicles\car03_clean_n.dds
+
+newmtl Material.00050c
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 90
+map_Kd textures\vehicles\CarGlass_Clean.dds
+map_Kn textures\vehicles\CarGlass_Clean_n.dds
+
+newmtl Material.00055a
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\clutter\junk\Tires01.dds
+map_Kn textures\clutter\junk\Tires01_n.dds
+
+newmtl Material.00074c
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 60
+map_Kd textures\vehicles\AutoWheel01_clean.dds
+map_Kn textures\vehicles\AutoWheel01_clean_n.dds
+
+newmtl Material.0009b5
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 10
+map_Kd textures\clutter\junk\Tires01.dds
+map_Kn textures\clutter\junk\Tires01_n.dds
+
+newmtl Material.000ba7
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 60
+map_Kd textures\vehicles\AutoWheel01_clean.dds
+map_Kn textures\vehicles\AutoWheel01_clean_n.dds
+
+newmtl Material.000e10
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 60
+map_Kd textures\furniture\DinerBooth01.dds
+map_Kn textures\furniture\DinerBooth01_N.dds
+
+newmtl Material.001122
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 60
+map_Kd textures\furniture\DinerBooth01.dds
+map_Kn textures\furniture\DinerBooth01_N.dds
+
+newmtl Material.001435
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 60
+map_Kd textures\furniture\DinerBooth01.dds
+map_Kn textures\furniture\DinerBooth01_N.dds
+
+newmtl Material.001748
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 80
+map_Kd textures\vehicles\car03_clean.dds
+map_Kn textures\vehicles\car03_clean_n.dds
+
+newmtl Material.0026f8
+Ka 1 1 1
+Kd 1 1 1
+Ks 0 0 0
+d 1
+Ns 60
+map_Kd textures\vehicles\AutoChassis01.dds
+map_Kn textures\vehicles\AutoChassis01_n.dds
